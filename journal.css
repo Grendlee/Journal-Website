@@ -9,6 +9,16 @@ body {
         url(EmblemaOne-Regular.ttf);
 }
 
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
+}
+
 h1 {
     font-family: "Emblema One", serif;
+    font-size: 220%;
+}
+
+h2 {
+    font-size: 130%;
 }
