@@ -1,3 +1,14 @@
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
 }
+
+@font-face {
+    font-family: "Emblema One";
+    
+    src: url(EmblemaOne-Regular.woff), 
+        url(EmblemaOne-Regular.ttf);
+}
+
+h1 {
+    font-family: "Emblema One", serif;
+}
